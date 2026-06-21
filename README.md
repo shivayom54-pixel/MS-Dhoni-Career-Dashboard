@@ -117,3 +117,8 @@ The period from 2007 to 2013 represents Dhoni's most productive batting years, w
 7. Conclusion
 
 The Mahendra Singh Dhoni Career Statistics Dashboard provides a comprehensive analysis of one of India's greatest cricketers. The dashboard effectively visualizes key batting metrics, yearly run trends, boundaries, and milestone achievements. Through interactive filters and dynamic charts, users can gain valuable insights into Dhoni's consistency, performance growth, and overall contribution to international cricket.# MS-Dhoni-Career-Dashboard
+
+
+8. Example:
+
+[https://github.com/shivayom54-pixel/MS-Dhoni-Career-Dashboard/blob/main/image.png]
